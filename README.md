@@ -1,8 +1,8 @@
-Description
+## Description
 
 A web-based application to manage and track inventory operations including stock, sales, purchases, customers, and vendors efficiently. The system replaces manual record-keeping, reduces errors, and improves data accuracy and speed.
 
-Technologies Used
+## Technologies Used
 
 HTML
 
@@ -16,7 +16,7 @@ PHP
 
 MySQL
 
-Features
+## Features
 
 Stock Management
 
@@ -28,6 +28,6 @@ Admin Dashboard
 
 Report Generation
 
-Author
+## Author
 
 Divyasri M
